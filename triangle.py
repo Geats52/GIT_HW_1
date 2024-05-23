@@ -10,7 +10,10 @@
 Пример:
 >>>>>>> parent of 97084a5 (Update triangle.py)
 
+<<<<<<< HEAD
 Пример:
+=======
+>>>>>>> parent of c8bb853 (ex_about_trinagle_OLD_4)
 На входе:
 
 На выходе:
